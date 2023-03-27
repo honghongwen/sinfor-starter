@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.sinfor.stater.net.SinforNettyServer,com.sinfor.stater.net.support.SpringUtil
